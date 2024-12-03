@@ -8,7 +8,7 @@ O objetivo deste projeto é aplicar técnicas de aprendizado de máquina, especi
 
 1. **Prepare o ambiente**: Este código pode ser executado diretamente no [Google Colab](https://colab.research.google.com/), que já possui as bibliotecas necessárias pré-instaladas. Basta rodar as células sequencialmente.
    
-2. **Carregar os dados**: Comece carregando o dataset no Colab, que pode ser feito via upload de arquivos ou usando links públicos de fontes como o [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+2. **Carregar os dados**: Comece carregando o dataset no Colab, de fontes como o [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
    
 3. **Pré-processamento**: Realize o pré-processamento dos dados, incluindo a limpeza, a remoção de valores ausentes e a normalização das variáveis. Utilize técnicas de redução de dimensionalidade (como PCA, correlação ou Random Forest) para diminuir a complexidade dos dados.
 
